@@ -2,6 +2,6 @@
 
 int	main(void)
 {
-	printf("Hello World : amine zamle\n");
+	printf("Triying To Do Better");
 	return (0);
 }
